@@ -1,0 +1,92 @@
+Statement of Work (SOW) - Employee Attendance Automation System
+Project Overview
+Project Name
+
+Employee Attendance Automation System
+Project Purpose
+
+The purpose of this project is to automate HR processes related to headcount management. The system will integrate data from two sources, automate data retrieval and processing, and provide valuable insights and reports to assist in decision-making.
+Scope of Work
+Data Integration
+
+    Data Sources Integration: Integrate data from two sources:
+        Source 1: RH Flex Suite - Provide information about active and terminated employees for the current calendar year.
+        Source 2: Personal Calendar - Contain daily attendance records in an Excel format, categorized by various incident types.
+
+    Data Retrieval Automation: Implement automated processes to retrieve data from both sources periodically.
+
+Data Processing and Analysis
+
+    Data Consolidation: Consolidate data from the two sources into a central repository for analysis.
+
+    Data Classification: Classify attendance data based on incident types, including new hires, terminations, sick leaves, and other relevant categories.
+
+    Key Performance Indicators (KPIs): Calculate and report attendance-related KPIs, including absenteeism rates and specific incident-related statistics.
+
+Prenomination Process
+
+    Weekly Data Capture: Implement a prenomination process that captures data from the attendance sheet on a weekly basis. This process will be adapted to accommodate changes in dates for accurate data capture.
+
+    Software Utilization: Utilize the "Control" software for efficient data capture and management.
+
+Dashboard and Reporting
+
+    Dashboard Customization: Customize the dashboard to meet the specific requirements of different departments.
+
+    Data Visualization: Create visualizations of KPIs and attendance-related data to aid in decision-making.
+
+    Detailed Reports: Generate detailed reports and charts, with a focus on different types of terminations and monthly trends.
+
+Data Storage and Retrieval
+
+    Dynamics Tables: Use Dynamics tables to store and manage attendance data. Implement comprehensive indexing for efficient data retrieval and reporting.
+
+Absenteeism Index
+
+    Absenteeism Calculation: Calculate absenteeism rates by shift, including the incorporation of primary data when it is a day off.
+
+    Visualization: Create visual representations of absenteeism trends by justified or unjustified incidents.
+
+HR Deliverables
+
+    PowerPoint Presentation: Generate a PowerPoint presentation as the second part of the HR process. This presentation will include information related to employee turnover, absenteeism, and other relevant insights.
+
+    Simplification of Tables: Simplify attendance data tables for ease of understanding and analysis.
+
+Employee Types
+
+    Differentiation: Differentiate between two types of employees, those paid on a biweekly and weekly basis.
+
+    Monthly Reports: Prepare reports showing the percentage of hours worked per month for each type of employee.
+
+Project Schedule
+
+    Project Kick-off: [Specify Date]
+    Data Integration and Processing: [Specify Dates]
+    Dashboard and Reporting Development: [Specify Dates]
+    Prenomination Process Implementation: [Specify Dates]
+    HR Deliverables Creation: [Specify Dates]
+    Project Completion: [Specify Date]
+
+Project Budget
+
+The project budget will cover expenses related to data integration tools, software licenses, and development efforts. A detailed budget plan will be provided as part of project planning.
+Project Risks
+
+Potential risks include data integration challenges, software compatibility issues, and the need for accurate data capture from various sources. Risk mitigation plans will be developed and implemented as needed.
+Project Success Criteria
+
+The project will be considered successful if it achieves the following objectives:
+
+    Accurate and automated data integration.
+    Efficient data processing and analysis.
+    User-friendly dashboard and reports.
+    Timely HR deliverables.
+    Improved attendance tracking and insights.
+
+Sign-Off
+
+This Statement of Work (SOW) is approved by:
+
+Bruno Manuel Valles Prieto
+28/10/2023

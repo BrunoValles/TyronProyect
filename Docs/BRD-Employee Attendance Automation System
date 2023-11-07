@@ -1,0 +1,87 @@
+Business Requirements Document (BRD) - Employee Attendance Automation System
+Project Overview
+Project Name
+
+Employee Attendance Automation System
+Project Purpose
+
+The purpose of this project is to automate the HR (Human Resources) processes related to headcount management. The system will integrate data from two sources, automate the data retrieval and processing, and provide valuable insights and reports to assist in decision-making.
+Project Scope
+
+The project encompasses the following key aspects:
+
+    Data Sources:
+        Integration of data from two sources:
+            Source 1: RH Flex Suite - Provides information about active and terminated employees for the current calendar year.
+            Source 2: Personal Calendar - Contains daily attendance records in an Excel format, categorized by various incident types.
+
+    Data Processing and Analysis:
+        Automated retrieval of data from the two sources.
+        Consolidation and classification of attendance data, including incident types (e.g., new hires, terminations, sick leaves).
+        Calculation of attendance KPIs, including absenteeism rates and specific incident-related statistics.
+
+    Prenomination Process:
+        Weekly data capture from the attendance sheet, which serves as the database.
+        Utilizes software called "Control" for this process.
+        Adaptation to changes in dates for accurate data capture.
+
+    Dashboard and Reporting:
+        Customization of the dashboard to meet departmental requirements.
+        Visualization of KPIs and attendance-related data.
+        Detailed reports and charts, particularly focused on different types of terminations and monthly trends.
+
+    Data Storage and Retrieval:
+        Use of Dynamics tables to store and manage attendance data.
+        Comprehensive indexing for efficient data retrieval and reporting.
+
+    Absenteeism Index:
+        Calculation of absenteeism rates by shift, including the incorporation of primary data when it is a day off.
+        Visualization of absenteeism trends by justified or unjustified incidents.
+
+    HR Deliverables:
+        Generation of a PowerPoint presentation as the second part of the HR process.
+        Presentation of information related to employee turnover, absenteeism, and other relevant insights.
+        Simplification of attendance data tables.
+
+    Employee Types:
+        Differentiation between two types of employees, those paid on a biweekly and weekly basis.
+        Preparation of reports showing the percentage of hours worked per month.
+
+Stakeholders
+
+    Project Manager: Responsible for project coordination and management.
+    Data Analysts: Responsible for data integration, processing, and analysis.
+    HR Department: End users who require HR-related reports and insights.
+
+Project Schedule
+
+    Project Kick-off: [Specify Date]
+    Data Integration and Processing: [Specify Dates]
+    Dashboard and Reporting Development: [Specify Dates]
+    Prenomination Process Implementation: [Specify Dates]
+    HR Deliverables Creation: [Specify Dates]
+    Project Completion: [Specify Date]
+
+Project Budget
+
+The project budget will cover expenses related to data integration tools, software licenses, and development efforts.
+Project Risks
+
+Potential risks include data integration challenges, software compatibility issues, and the need for accurate data capture from various sources. Mitigation plans will be developed as needed.
+Project Success Criteria
+
+The project will be considered successful if it achieves the following objectives:
+
+    Accurate and automated data integration.
+    Efficient data processing and analysis.
+    User-friendly dashboard and reports.
+    Timely HR deliverables.
+    Improved attendance tracking and insights.
+
+Project Sign-Off
+
+This BRD is approved by:
+
+Bruno Manuel Valles Prieto
+
+28/10/2023
